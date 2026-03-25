@@ -4,6 +4,9 @@ This is a step by step procedure to add a new model to PX4 SITL
 
 A complete step-by-step guide for integrating a custom multirotor vehicle into the PX4 `gz` (Gazebo Garden/Harmonic) simulation environment.
 
+You can also refer to the PDF file in the repository.
+
+
 ---
 
 ## Table of Contents
