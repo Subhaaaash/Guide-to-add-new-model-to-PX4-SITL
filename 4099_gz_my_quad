@@ -1,0 +1,58 @@
+#!/bin/sh
+#
+# @name Gazebo x500
+#
+# @type Quadrotor
+#
+
+. ${R}etc/init.d/rc.mc_defaults
+
+PX4_SIMULATOR=${PX4_SIMULATOR:=gz}
+PX4_GZ_WORLD=${PX4_GZ_WORLD:=default}
+PX4_SIM_MODEL=${PX4_SIM_MODEL:=my_quad}
+PX4_GZ_MODEL_POSE=${PX4_GZ_MODEL_POSE:=0,0,0.5,0,0,0}
+
+
+
+param set-default SIM_GZ_EN 1
+
+param set-default CA_AIRFRAME 0
+param set-default CA_ROTOR_COUNT 4
+
+# Motor 0 → SDF rotor_0 → Front-Right, CCW
+param set-default CA_ROTOR0_PX  0.075
+param set-default CA_ROTOR0_PY  0.075
+param set-default CA_ROTOR0_KM -0.05   # CCW = negative
+
+# Motor 1 → SDF rotor_1 → Back-Left, CCW
+param set-default CA_ROTOR1_PX -0.075
+param set-default CA_ROTOR1_PY -0.075
+param set-default CA_ROTOR1_KM -0.05   # CCW = negative
+
+# Motor 2 → SDF rotor_2 → Front-Left, CW
+param set-default CA_ROTOR2_PX  0.075
+param set-default CA_ROTOR2_PY -0.075
+param set-default CA_ROTOR2_KM  0.05   # CW = positive
+
+# Motor 3 → SDF rotor_3 → Back-Right, CW
+param set-default CA_ROTOR3_PX -0.075
+param set-default CA_ROTOR3_PY  0.075
+param set-default CA_ROTOR3_KM  0.05   # CW = positive
+
+param set-default SIM_GZ_EC_FUNC1 103
+param set-default SIM_GZ_EC_FUNC2 104
+param set-default SIM_GZ_EC_FUNC3 101
+param set-default SIM_GZ_EC_FUNC4 102
+
+param set-default SIM_GZ_EC_MIN1 150
+param set-default SIM_GZ_EC_MIN2 150
+param set-default SIM_GZ_EC_MIN3 150
+param set-default SIM_GZ_EC_MIN4 150
+
+param set-default SIM_GZ_EC_MAX1 1000
+param set-default SIM_GZ_EC_MAX2 1000
+param set-default SIM_GZ_EC_MAX3 1000
+param set-default SIM_GZ_EC_MAX4 1000
+
+param set-default MPC_THR_HOVER 0.60
+param set-default NAV_DLL_ACT 2
