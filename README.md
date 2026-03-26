@@ -1,7 +1,7 @@
 # Guide-to-add-new-model-to-PX4-SITL
 This is a step by step procedure to add a new model to PX4 SITL
 # Adding a New Vehicle to PX4 Gazebo Simulation
-
+<video src="https://github.com/user-attachments/assets/px4sitl_quad(1)(1)" controls width="100%"></video>
 A complete step-by-step guide for integrating a custom multirotor vehicle into the PX4 `gz` (Gazebo Garden/Harmonic) simulation environment.
 
 You can also refer to the PDF file in the repository.
