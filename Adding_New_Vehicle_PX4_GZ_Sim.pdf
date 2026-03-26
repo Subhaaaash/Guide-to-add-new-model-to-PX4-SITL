@@ -1,0 +1,4297 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 20
+/Kids [ 4 0 R 10 0 R 19 0 R 23 0 R 27 0 R 31 0 R 35 0 R 39 0 R 43 0 R 47 0 R 51 0 R 55 0 R 59 0 R 63 0 R 67 0 R 71 0 R 75 0 R 79 0 R 83 0 R 87 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 1602
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 719.1969 cm
+Q
+q
+1 0 0 1 62.69291 681.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F2 30 Tf 38 TL 60.73488 0 Td (Adding a New Vehicle to) Tj T* -60.73488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 8 Tm /F2 30 Tf 38 TL 36.56988 0 Td (PX4 Gazebo \(gz\) Simulation) Tj T* -36.56988 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.1969 cm
+Q
+q
+1 0 0 1 62.69291 603.1969 cm
+q
+2 w
+1 J
+.101961 .137255 .25098 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 581.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 -2 Tm /F1 14 Tf 12 TL 133.0109 0 Td (A Step-by-Step Developer Guide) Tj T* -133.0109 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 -2 Tm /F1 14 Tf 12 TL 97.61888 0 Td (From CAD Export to Running the Simulation) Tj T* -97.61888 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 527.1969 cm
+Q
+q
+1 0 0 1 62.69291 515.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 62.37988 0 Td (Covers: FreeCAD / Fusion 360 / Blender | SDF Model | PX4 Airframe | CMake) Tj T* -62.37988 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.1969 cm
+Q
+q
+1 0 0 1 62.69291 491.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 122.6199 0 Td (PX4 Version: v1.14+ | Gazebo: Harmonic / Garden) Tj T* -122.6199 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 13 0 R
+/F2 14 0 R
+/F2-0 15 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 4478
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 759.1969 cm
+Q
+q
+1 0 0 1 62.69291 717.1969 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Document Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.1969 cm
+q
+1 w
+1 J
+.101961 .431373 .741176 RG
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 657.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35 Tm /F1 10 Tf 15 TL .732927 Tw (This guide walks you through every step required to add a custom multirotor vehicle to the PX4 Gazebo) Tj T* 0 Tw 2.574651 Tw (\(gz\) simulation environment. Starting from your 3D CAD design and ending with a flying vehicle in) Tj T* 0 Tw -0.132016 Tw (simulation, each step is explained in detail with code snippets, file listings, and common pitfalls highlighted.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 93.47309 435.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 216 408.3294 -24 re f*
+1 1 1 rg
+n 0 192 408.3294 -192 re f*
+1 1 1 rg
+n 0 192 408.3294 -24 re f*
+.933333 .956863 .984314 rg
+n 0 168 408.3294 -24 re f*
+1 1 1 rg
+n 0 144 408.3294 -24 re f*
+.933333 .956863 .984314 rg
+n 0 120 408.3294 -24 re f*
+1 1 1 rg
+n 0 96 408.3294 -24 re f*
+.933333 .956863 .984314 rg
+n 0 72 408.3294 -24 re f*
+1 1 1 rg
+n 0 48 408.3294 -24 re f*
+.933333 .956863 .984314 rg
+n 0 24 408.3294 -24 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8.256374 201 Tm (Step) Tj T* ET
+BT 1 0 0 1 42.01575 201 Tm (Task) Tj T* ET
+BT 1 0 0 1 268.7874 201 Tm (Files Touched) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 15.50587 177 Tm (1) Tj T* ET
+BT 1 0 0 1 42.01575 177 Tm (Export CAD mesh to DAE/STL) Tj T* ET
+BT 1 0 0 1 268.7874 177 Tm (*.dae, *.stl) Tj T* ET
+BT 1 0 0 1 15.50587 153 Tm (2) Tj T* ET
+BT 1 0 0 1 42.01575 153 Tm (Create Gazebo model directory) Tj T* ET
+BT 1 0 0 1 268.7874 153 Tm (models/my_vehicle/) Tj T* ET
+BT 1 0 0 1 15.50587 129 Tm (3) Tj T* ET
+BT 1 0 0 1 42.01575 129 Tm (Write model.config) Tj T* ET
+BT 1 0 0 1 268.7874 129 Tm (model.config) Tj T* ET
+BT 1 0 0 1 15.50587 105 Tm (4) Tj T* ET
+BT 1 0 0 1 42.01575 105 Tm (Write model.sdf \(physics + sensors\)) Tj T* ET
+BT 1 0 0 1 268.7874 105 Tm (model.sdf) Tj T* ET
+BT 1 0 0 1 15.50587 81 Tm (5) Tj T* ET
+BT 1 0 0 1 42.01575 81 Tm (Create PX4 airframe script) Tj T* ET
+BT 1 0 0 1 268.7874 81 Tm (ROMFS/.../XXXX_gz_my_vehicle) Tj T* ET
+BT 1 0 0 1 15.50587 57 Tm (6) Tj T* ET
+BT 1 0 0 1 42.01575 57 Tm (Register airframe in CMakeLists) Tj T* ET
+BT 1 0 0 1 268.7874 57 Tm (airframes/CMakeLists.txt) Tj T* ET
+BT 1 0 0 1 15.50587 33 Tm (7) Tj T* ET
+BT 1 0 0 1 42.01575 33 Tm (Build & run the simulation) Tj T* ET
+BT 1 0 0 1 268.7874 33 Tm (make px4_sitl gz_my_vehicle) Tj T* ET
+BT 1 0 0 1 15.50587 9 Tm (8) Tj T* ET
+BT 1 0 0 1 42.01575 9 Tm (Verify and tune parameters) Tj T* ET
+BT 1 0 0 1 268.7874 9 Tm (QGroundControl / pxh>) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 216 m 408.3294 216 l S
+n 0 0 m 408.3294 0 l S
+n 0 0 m 0 216 l S
+n 408.3294 0 m 408.3294 216 l S
+n 0 192 m 408.3294 192 l S
+n 0 168 m 408.3294 168 l S
+n 0 144 m 408.3294 144 l S
+n 0 120 m 408.3294 120 l S
+n 0 96 m 408.3294 96 l S
+n 0 72 m 408.3294 72 l S
+n 0 48 m 408.3294 48 l S
+n 0 24 m 408.3294 24 l S
+n 34.01575 0 m 34.01575 216 l S
+n 260.7874 0 m 260.7874 216 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 425.1969 cm
+Q
+q
+1 0 0 1 62.69291 409.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -2 485.8898 20 re B*
+Q
+q
+.901961 .317647 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Warning: Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -6 485.8898 36 re B*
+Q
+q
+BT 1 0 0 1 0 18.5 Tm 14 TL /F1 9.5 Tf .2 .2 .2 rg (This guide targets the new Gazebo simulator \(gz/Garden/Harmonic\), NOT Gazebo Classic. The make target is) Tj T* (gz_) Tj (<) Tj (model_name) Tj (>) Tj (, not gazebo_) Tj (<) Tj (model_name) Tj (>) Tj (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 367.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -6 485.8898 22 re B*
+Q
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 4.5 Tm /F1 9.5 Tf 14 TL (Reference vehicle used throughout: gz_x500 \(located in Tools/simulation/gz/models/x500_base/\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.1969 cm
+Q
+q
+1 0 0 1 62.69291 349.1969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Symbol
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 21 0 R
+/F2 14 0 R
+/F2-0 22 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 6166
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 55.58488 0 Td (Step 1 \227 Exporting CAD to a DAE / STL Mesh) Tj T* -55.58488 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (1) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Export Your 3D Model to a DAE \(Collada\) File) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1.1 Why DAE \(Collada\)?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 586.1969 cm
+q
+BT 1 0 0 1 0 35 Tm .557126 Tw 15 TL /F1 10 Tf 0 0 0 rg (Gazebo's SDF format references mesh geometry files for both visual and collision shapes. The preferred) Tj T* 0 Tw .019318 Tw (format is ) Tj /F2 10 Tf (Collada \(.dae\)) Tj /F1 10 Tf ( because it preserves material colours, texture UV maps, and vertex normals. STL) Tj T* 0 Tw (files are accepted for collision meshes \(no colour data needed\) but not recommended for visual meshes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1.2 Exporting from FreeCAD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (FreeCAD is a free, open-source parametric CAD tool. Follow these steps:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 -15.04404 373.1969 cm
+q
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 139.5 Tm (1) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 139.5 Tm (Open your assembly or part file in FreeCAD.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 117.5 Tm (2) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 117.5 Tm (Select the body/mesh you want to export in the Model tree.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 95.5 Tm (3) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 95.5 Tm (Go to File > Export.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (4) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 73.5 Tm (In the file-type dropdown choose Collada \(.dae\) or Mesh Formats > DAE.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 51.5 Tm (5) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 51.5 Tm (Set the export options: Unit = millimeter \(Gazebo uses metres internally; scale in SDF if needed\), Tessellation quality = Fine.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 29.5 Tm (6) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 29.5 Tm (Click OK / Save. Verify the .dae opens in Blender or MeshLab without errors.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 7.5 Tm (7) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 7.5 Tm (\(Optional\) Export a simplified mesh as .stl for the collision geometry \227 collision meshes should be convex and low-polygon for performance.) Tj T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 365.1969 cm
+Q
+q
+1 0 0 1 62.69291 333.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1.3 Exporting from Fusion 360) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (Fusion 360 does not export DAE natively; use the following workflow:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.86421 174.1969 cm
+q
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 117.5 Tm (1) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 117.5 Tm (In the Browser panel, right-click the component to export.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 95.5 Tm (2) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 95.5 Tm (Choose Save As Mesh.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (3) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 73.5 Tm (Format: OBJ \(with materials\). Click OK.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 51.5 Tm (4) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 51.5 Tm (Open the exported OBJ in Blender \(File > Import > Wavefront .obj\).) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 29.5 Tm (5) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 29.5 Tm (In Blender: File > Export > Collada \(.dae\). Use the default settings.) Tj T* ET
+.101961 .431373 .741176 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 7.5 Tm (6) Tj T* ET
+0 0 0 rg
+BT /F1 9.5 Tf 12 TL ET
+BT 1 0 0 1 30.67717 7.5 Tm (If textures/materials are missing, assign basic diffuse colours in Blender before exporting.) Tj T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 166.1969 cm
+Q
+q
+1 0 0 1 62.69291 134.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1.4 Mesh Clean-up in Blender \(Recommended\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (Before placing the mesh in the model directory, apply these clean-up steps in Blender:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.19685 cm
+q
+BT 1 0 0 1 20 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Set Origin to Geometry:) Tj /F1 10 Tf ( Object > Set Origin > Origin to Geometry. This ensures the mesh pivot is) Tj T* (at its centre of mass.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 25 0 R
+/F2 14 0 R
+/F2-0 26 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 4226
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 765.1969 cm
+q
+BT 1 0 0 1 20 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Apply Scale & Rotation:) Tj /F1 10 Tf ( Object > Apply > All Transforms. Prevents scale mismatches in Gazebo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+BT 1 0 0 1 20 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Check Units:) Tj /F1 10 Tf ( Scene Properties > Units > Unit System = Metric, Unit Scale = 1.0. Gazebo expects) Tj T* (metres.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.1969 cm
+q
+BT 1 0 0 1 20 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Recalculate Normals:) Tj /F1 10 Tf ( In Edit Mode, select all \(A\), Mesh > Normals > Recalculate Outside.) Tj T* (Prevents invisible/inside-out faces.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+q
+BT 1 0 0 1 20 18 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 ) Tj /F2 10 Tf (Decimate for Collision:) Tj /F1 10 Tf ( Add a Decimate modifier to the collision copy \(Ratio ~0.1\2260.2 for a typical) Tj T* (quad frame\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 657.1969 cm
+Q
+q
+1 0 0 1 62.69291 641.1969 cm
+q
+.219608 .556863 .235294 RG
+1 w
+.909804 .960784 .913725 rg
+n -8 -2 485.8898 20 re B*
+Q
+q
+.105882 .368627 .12549 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Tip: Best Practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.1969 cm
+q
+.219608 .556863 .235294 RG
+1 w
+.909804 .960784 .913725 rg
+n -8 -6 485.8898 50 re B*
+Q
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (Save two separate DAE files: one high-detail visual mesh \(e.g. frame_visual.dae\) and one low-polygon collision) Tj T* (mesh \(e.g. frame_collision.dae\). For small quads a simple box collision geometry in the SDF is often sufficient) Tj T* (and eliminates the need for a collision mesh entirely.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.1969 cm
+Q
+q
+1 0 0 1 62.69291 559.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1.5 Coordinate System Convention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 508.1969 cm
+q
+BT 1 0 0 1 0 35 Tm .600542 Tw 15 TL /F1 10 Tf 0 0 0 rg (Gazebo uses a ) Tj /F2 10 Tf (right-hand ENU) Tj /F1 10 Tf ( coordinate frame: X forward, Y left, Z up. Blender uses Z up by default,) Tj T* 0 Tw .322209 Tw (which maps correctly. If your CAD tool uses a different convention \(e.g. Y up\), rotate the mesh in Blender) Tj T* 0 Tw (before exporting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.1669 392.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 110 430.9418 -22 re f*
+1 1 1 rg
+n 0 88 430.9418 -22 re f*
+.933333 .956863 .984314 rg
+n 0 66 430.9418 -22 re f*
+1 1 1 rg
+n 0 44 430.9418 -22 re f*
+.933333 .956863 .984314 rg
+n 0 22 430.9418 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 96 Tm (Axis) Tj T* ET
+BT 1 0 0 1 50.51969 96 Tm (Gazebo Meaning) Tj T* ET
+BT 1 0 0 1 192.252 96 Tm (Blender Default) Tj T* ET
+BT 1 0 0 1 305.6378 96 Tm (Action if Different) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 74 Tm (X) Tj T* ET
+BT 1 0 0 1 50.51969 74 Tm (Forward \(nose\)) Tj T* ET
+BT 1 0 0 1 192.252 74 Tm (Forward) Tj T* ET
+BT 1 0 0 1 305.6378 74 Tm (None) Tj T* ET
+BT 1 0 0 1 8 52 Tm (+Y) Tj T* ET
+BT 1 0 0 1 50.51969 52 Tm (Left) Tj T* ET
+BT 1 0 0 1 192.252 52 Tm (Left) Tj T* ET
+BT 1 0 0 1 305.6378 52 Tm (None) Tj T* ET
+BT 1 0 0 1 8 30 Tm (+Z) Tj T* ET
+BT 1 0 0 1 50.51969 30 Tm (Up) Tj T* ET
+BT 1 0 0 1 192.252 30 Tm (Up) Tj T* ET
+BT 1 0 0 1 305.6378 30 Tm (None) Tj T* ET
+BT 1 0 0 1 8 8 Tm (Units) Tj T* ET
+BT 1 0 0 1 50.51969 8 Tm (Metres) Tj T* ET
+BT 1 0 0 1 192.252 8 Tm (Depends on scene) Tj T* ET
+BT 1 0 0 1 305.6378 8 Tm (Set Unit Scale = 1.0 in metres) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 110 m 430.9418 110 l S
+n 0 0 m 430.9418 0 l S
+n 0 0 m 0 110 l S
+n 430.9418 0 m 430.9418 110 l S
+n 0 88 m 430.9418 88 l S
+n 0 66 m 430.9418 66 l S
+n 0 44 m 430.9418 44 l S
+n 0 22 m 430.9418 22 l S
+n 42.51969 0 m 42.51969 110 l S
+n 184.252 0 m 184.252 110 l S
+n 297.6378 0 m 297.6378 110 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 29 0 R
+/F2 14 0 R
+/F2-0 30 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 3610
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 52.01688 0 Td (Step 2 \227 Creating the Gazebo Model Directory) Tj T* -52.01688 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (2) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Set Up the Model Directory Structure) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (2.1 Where Models Live) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (PX4 ships its Gazebo models inside the Git submodule at:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 598.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (Tools/simulation/gz/models/) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 592.1969 cm
+Q
+q
+1 0 0 1 62.69291 577.1969 cm
+q
+BT 1 0 0 1 0 5 Tm 15 TL /F1 10 Tf 0 0 0 rg (Each model has its own subdirectory. For a vehicle named ) Tj /F2 10 Tf (my_vehicle) Tj /F1 10 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 475.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 87.5 Tm /F3 8.5 Tf 12 TL (Tools/simulation/gz/models/) Tj T* (  my_vehicle/) Tj T* (    model.config        # Metadata \(name, SDF version, author\)) Tj T* (    model.sdf           # Physics, sensors, plugins) Tj T* (    meshes/             # Optional: .dae / .stl mesh files) Tj T* (      frame_visual.dae) Tj T* (      propeller_cw.dae) Tj T* (      propeller_ccw.dae) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 469.1969 cm
+Q
+q
+1 0 0 1 62.69291 461.1969 cm
+Q
+q
+1 0 0 1 62.69291 429.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (2.2 Create the Directory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 363.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 51.5 Tm /F3 8.5 Tf 12 TL (cd ~/PX4-Autopilot/Tools/simulation/gz/models) Tj T* (mkdir -p my_vehicle/meshes) Tj T* (cp /path/to/your/frame_visual.dae    my_vehicle/meshes/) Tj T* (cp /path/to/your/propeller_cw.dae    my_vehicle/meshes/) Tj T* (cp /path/to/your/propeller_ccw.dae   my_vehicle/meshes/) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 357.1969 cm
+Q
+q
+1 0 0 1 62.69291 349.1969 cm
+Q
+q
+1 0 0 1 62.69291 333.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -2 485.8898 20 re B*
+Q
+q
+.901961 .317647 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Warning: Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -6 485.8898 36 re B*
+Q
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 18.5 Tm /F1 9.5 Tf 14 TL (The model directory name must exactly match the value you will later set for PX4_SIM_MODEL in the airframe) Tj T* (script. If they differ, PX4 will fail to spawn the model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.1969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 33 0 R
+/F2 14 0 R
+/F2-0 34 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 3263
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 112.9289 0 Td (Step 3 \227 Writing model.config) Tj T* -112.9289 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (3) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Create the model.config Metadata File) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 639.1969 cm
+q
+BT 1 0 0 1 0 20 Tm .499984 Tw 15 TL /F1 10 Tf 0 0 0 rg (Every Gazebo model directory requires a ) Tj /F2 10 Tf (model.config) Tj /F1 10 Tf ( file. Gazebo reads this file to discover the model) Tj T* 0 Tw (name and which SDF file to load.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 607.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (3.1 Minimal model.config) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 445.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 147.5 Tm /F3 8.5 Tf 12 TL (<?xml version="1.0"?>) Tj T* (<model>) Tj T* (  <name>my_vehicle</name>) Tj T* (  <version>1.0</version>) Tj T* (  <sdf version="1.9">model.sdf</sdf>) Tj T* (  <author>) Tj T* (    <name>Your Name</name>) Tj T* (    <email>you@example.com</email>) Tj T* (  </author>) Tj T* (  <description>) Tj T* (    Custom quadrotor vehicle for PX4 simulation.) Tj T* (  </description>) Tj T* (</model>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 439.1969 cm
+Q
+q
+1 0 0 1 62.69291 431.1969 cm
+Q
+q
+1 0 0 1 103.228 343.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 88 388.8196 -22 re f*
+1 1 1 rg
+n 0 66 388.8196 -22 re f*
+.933333 .956863 .984314 rg
+n 0 44 388.8196 -22 re f*
+1 1 1 rg
+n 0 22 388.8196 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 74 Tm (Field) Tj T* ET
+BT 1 0 0 1 107.2126 74 Tm (Description) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 52 Tm (<name>) Tj T* ET
+BT 1 0 0 1 107.2126 52 Tm (Must exactly match the directory name and PX4_SIM_MODEL value.) Tj T* ET
+BT 1 0 0 1 8 30 Tm (<sdf version>) Tj T* ET
+BT 1 0 0 1 107.2126 30 Tm (SDF spec version. Use 1.9 for Gazebo Garden/Harmonic.) Tj T* ET
+BT 1 0 0 1 8 8 Tm (<sdf> \(content\)) Tj T* ET
+BT 1 0 0 1 107.2126 8 Tm (Filename of the SDF file relative to this directory. Usually model.sdf.) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 88 m 388.8196 88 l S
+n 0 0 m 388.8196 0 l S
+n 0 0 m 0 88 l S
+n 388.8196 0 m 388.8196 88 l S
+n 0 66 m 388.8196 66 l S
+n 0 44 m 388.8196 44 l S
+n 0 22 m 388.8196 22 l S
+n 99.2126 0 m 99.2126 88 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 37 0 R
+/F2 14 0 R
+/F2-0 38 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 3823
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 124.9289 0 Td (Step 4 \227 Writing model.sdf) Tj T* -124.9289 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (4) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Define Physics, Sensors, and Motor Plugins in model.sdf) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 639.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL .445542 Tw (The SDF file is the heart of the Gazebo model. It defines rigid bodies \(links\), joints, sensors, and plugins.) Tj T* 0 Tw (The structure for a quadrotor mirrors the PX4 x500 model.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 607.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4.1 File Structure Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 349.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 243.5 Tm /F3 8.5 Tf 12 TL (<?xml version='1.0' encoding='UTF-8'?>) Tj T* (<sdf version='1.9'>) Tj T* (  <model name='my_vehicle'>) Tj T* (    <pose>0 0 0.24 0 0 0</pose>   <!-- spawn height above ground -->) Tj T*  T* (    <!-- \(A\) BASE LINK: inertia, visual, collision, sensors -->) Tj T* (    <link name='base_link'> ... </link>) Tj T*  T* (    <!-- \(B\) ROTOR LINKS + JOINTS: one per motor -->) Tj T* (    <link name='rotor_0'> ... </link>) Tj T* (    <joint name='rotor_0_joint' type='revolute'> ... </joint>) Tj T* (    <!-- repeat for rotor_1, rotor_2, rotor_3 -->) Tj T*  T* (    <!-- \(C\) MOTOR MODEL PLUGINS: one per rotor -->) Tj T* (    <plugin filename='gz-sim-multicopter-motor-model-system') Tj T* (            name='gz::sim::systems::MulticopterMotorModel'>) Tj T* (      ...  <!-- motor 0 config -->) Tj T* (    </plugin>) Tj T* (    <!-- repeat for motor 1, 2, 3 -->) Tj T* (  </model>) Tj T* (</sdf>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 343.1969 cm
+Q
+q
+1 0 0 1 62.69291 335.1969 cm
+Q
+q
+1 0 0 1 62.69291 303.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4.2 Section A \227 Base Link) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 282.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (The base_link contains inertia, mesh references, and all sensors.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 72.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 195.5 Tm /F3 8.5 Tf 12 TL (<link name='base_link'>) Tj T* (  <gravity>true</gravity>) Tj T* (  <inertial>) Tj T* (    <mass>1.5</mass>   <!-- kg; replace with your CAD mass -->) Tj T* (    <inertia>          <!-- kg.m^2; from CAD Mass Properties tool -->) Tj T* (      <ixx>0.029125</ixx>  <ixy>0</ixy>  <ixz>0</ixz>) Tj T* (      <iyy>0.029125</iyy>  <iyz>0</iyz>) Tj T* (      <izz>0.055225</izz>) Tj T* (    </inertia>) Tj T* (  </inertial>) Tj T*  T* (  <!-- Visual mesh -->) Tj T* (  <visual name='base_link_visual'>) Tj T* (    <geometry><mesh>) Tj T* (      <uri>model://my_vehicle/meshes/frame_visual.dae</uri>) Tj T* (    </mesh></geometry>) Tj T* (  </visual>) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+37 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 41 0 R
+/F2 14 0 R
+/F2-0 42 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 3397
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 695.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 75.5 Tm /F3 8.5 Tf 12 TL (  <!-- Collision: simple box \(replace with mesh if needed\) -->) Tj T* (  <collision name='base_link_collision'>) Tj T* (    <geometry><box><size>0.35 0.35 0.05</size></box></geometry>) Tj T* (  </collision>) Tj T*  T* (  <!-- Sensors \(see 4.3\) -->) Tj T* (</link>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 689.1969 cm
+Q
+q
+1 0 0 1 62.69291 681.1969 cm
+Q
+q
+1 0 0 1 62.69291 649.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4.3 Section A \227 Sensors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 613.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL .795318 Tw (Add the following four sensor blocks inside base_link. These are the minimum sensors required for PX4) Tj T* 0 Tw (SITL to function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 67.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 531.5 Tm /F3 8.5 Tf 12 TL (<!-- IMU: 250 Hz \227 required for attitude/rate estimation -->) Tj T* (<sensor name='imu_sensor' type='imu'>) Tj T* (  <gz_frame_id>base_link</gz_frame_id>) Tj T* (  <always_on>1</always_on>) Tj T* (  <update_rate>250</update_rate>) Tj T* (  <imu>) Tj T* (    <angular_velocity>) Tj T* (      <x><noise type='gaussian'><mean>0</mean><stddev>0.0008726646</stddev></noise></x>) Tj T* (      <y><noise type='gaussian'><mean>0</mean><stddev>0.0008726646</stddev></noise></y>) Tj T* (      <z><noise type='gaussian'><mean>0</mean><stddev>0.0008726646</stddev></noise></z>) Tj T* (    </angular_velocity>) Tj T* (    <linear_acceleration>) Tj T* (      <x><noise type='gaussian'><mean>0</mean><stddev>0.00637</stddev></noise></x>) Tj T* (      <y><noise type='gaussian'><mean>0</mean><stddev>0.00637</stddev></noise></y>) Tj T* (      <z><noise type='gaussian'><mean>0</mean><stddev>0.00686</stddev></noise></z>) Tj T* (    </linear_acceleration>) Tj T* (  </imu>) Tj T* (</sensor>) Tj T*  T* (<!-- Barometer: 50 Hz -->) Tj T* (<sensor name='air_pressure_sensor' type='air_pressure'>) Tj T* (  <gz_frame_id>base_link</gz_frame_id>) Tj T* (  <always_on>1</always_on>) Tj T* (  <update_rate>50</update_rate>) Tj T* (  <air_pressure><pressure>) Tj T* (    <noise type='gaussian'><mean>0</mean><stddev>3</stddev></noise>) Tj T* (  </pressure></air_pressure>) Tj T* (</sensor>) Tj T*  T* (<!-- Magnetometer: 100 Hz -->) Tj T* (<sensor name='magnetometer_sensor' type='magnetometer'>) Tj T* (  <gz_frame_id>base_link</gz_frame_id>) Tj T* (  <always_on>1</always_on>) Tj T* (  <update_rate>100</update_rate>) Tj T* (  <magnetometer>) Tj T* (    <x><noise type='gaussian'><stddev>0.0001</stddev></noise></x>) Tj T* (    <y><noise type='gaussian'><stddev>0.0001</stddev></noise></y>) Tj T* (    <z><noise type='gaussian'><stddev>0.0001</stddev></noise></z>) Tj T* (  </magnetometer>) Tj T* (</sensor>) Tj T*  T* (<!-- GPS \(NavSat\): 30 Hz -->) Tj T* (<sensor name='navsat_sensor' type='navsat'>) Tj T* (  <gz_frame_id>base_link</gz_frame_id>) Tj T* (  <always_on>1</always_on>) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 45 0 R
+/F2 14 0 R
+/F2-0 46 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 5313
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 755.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 15.5 Tm /F3 8.5 Tf 12 TL (  <update_rate>30</update_rate>) Tj T* (</sensor>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 749.1969 cm
+Q
+q
+1 0 0 1 62.69291 741.1969 cm
+Q
+q
+1 0 0 1 62.69291 725.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -2 485.8898 20 re B*
+Q
+q
+.901961 .317647 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Warning: Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 655.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -6 485.8898 78 re B*
+Q
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 60.5 Tm /F1 9.5 Tf 14 TL (CRITICAL: Do NOT add gz-sim-imu-system, gz-sim-magnetometer-system, gz-sim-air-pressure-system, or) Tj T* (gz-sim-navsat-system plugin tags inside your model SDF. These sensor system plugins are already loaded) Tj T* (globally by PX4's server.config file. Adding them again at the model level causes each sensor to fire TWICE per) Tj T* (simulation step, producing duplicate IMU messages with identical timestamps. PX4's vehicle_imu module) Tj T* (detects this as a timestamp error and the simulation crashes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 641.1969 cm
+q
+.976471 .658824 .145098 RG
+1 w
+1 .972549 .882353 rg
+n -8 -6 485.8898 22 re B*
+Q
+q
+BT 1 0 0 1 0 4.5 Tm 14 TL /F1 9.5 Tf .2 .2 .2 rg (The x500_base reference model has NO sensor system plugins \227 only definitions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 633.1969 cm
+Q
+q
+1 0 0 1 62.69291 625.1969 cm
+Q
+q
+1 0 0 1 62.69291 593.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4.4 Section B \227 Rotor Links and Joints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL 1.524269 Tw (A standard X-configuration quadrotor has 4 rotors. The PX4 motor numbering convention \(used in the) Tj T* 0 Tw (airframe script\) is:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 93.71478 441.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 110 407.846 -22 re f*
+1 1 1 rg
+n 0 88 407.846 -22 re f*
+.933333 .956863 .984314 rg
+n 0 66 407.846 -22 re f*
+1 1 1 rg
+n 0 44 407.846 -22 re f*
+.933333 .956863 .984314 rg
+n 0 22 407.846 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 13.09696 96 Tm (Motor #) Tj T* ET
+BT 1 0 0 1 64.69291 96 Tm (Position) Tj T* ET
+BT 1 0 0 1 163.9055 96 Tm (Spin Direction) Tj T* ET
+BT 1 0 0 1 319.811 96 Tm (KM Sign \(PX4\)) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 26.84446 74 Tm (0) Tj T* ET
+BT 1 0 0 1 64.69291 74 Tm (Front-Right) Tj T* ET
+BT 1 0 0 1 163.9055 74 Tm (CCW \(counter-clockwise\)) Tj T* ET
+BT 1 0 0 1 319.811 74 Tm (Negative \(e.g. -0.05\)) Tj T* ET
+BT 1 0 0 1 26.84446 52 Tm (1) Tj T* ET
+BT 1 0 0 1 64.69291 52 Tm (Rear-Left) Tj T* ET
+BT 1 0 0 1 163.9055 52 Tm (CCW) Tj T* ET
+BT 1 0 0 1 319.811 52 Tm (Negative) Tj T* ET
+BT 1 0 0 1 26.84446 30 Tm (2) Tj T* ET
+BT 1 0 0 1 64.69291 30 Tm (Front-Left) Tj T* ET
+BT 1 0 0 1 163.9055 30 Tm (CW  \(clockwise\)) Tj T* ET
+BT 1 0 0 1 319.811 30 Tm (Positive \(e.g. +0.05\)) Tj T* ET
+BT 1 0 0 1 26.84446 8 Tm (3) Tj T* ET
+BT 1 0 0 1 64.69291 8 Tm (Rear-Right) Tj T* ET
+BT 1 0 0 1 163.9055 8 Tm (CW) Tj T* ET
+BT 1 0 0 1 319.811 8 Tm (Positive) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 110 m 407.846 110 l S
+n 0 0 m 407.846 0 l S
+n 0 0 m 0 110 l S
+n 407.846 0 m 407.846 110 l S
+n 0 88 m 407.846 88 l S
+n 0 66 m 407.846 66 l S
+n 0 44 m 407.846 44 l S
+n 0 22 m 407.846 22 l S
+n 56.69291 0 m 56.69291 110 l S
+n 155.9055 0 m 155.9055 110 l S
+n 311.811 0 m 311.811 110 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 433.1969 cm
+Q
+q
+1 0 0 1 62.69291 418.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (Rotor link template \(repeat for rotor_1, rotor_2, rotor_3\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 64.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 339.5 Tm /F3 8.5 Tf 12 TL (<!-- Motor 0: Front-Right, CCW -->) Tj T* (<link name='rotor_0'>) Tj T* (  <gravity>true</gravity>) Tj T* (  <pose>0.13 -0.22 0.023 0 0 0</pose>  <!-- XYZ from centre of mass, in metres -->) Tj T* (  <inertial>) Tj T* (    <mass>0.016</mass>) Tj T* (    <inertia>) Tj T* (      <ixx>3.8e-07</ixx> <iyy>2.6e-05</iyy> <izz>2.6e-05</izz>) Tj T* (    </inertia>) Tj T* (  </inertial>) Tj T* (  <visual name='rotor_0_visual'>) Tj T* (    <geometry><cylinder>) Tj T* (      <radius>0.12</radius><length>0.005</length>) Tj T* (    </cylinder></geometry>) Tj T* (    <!-- or: <mesh><uri>model://my_vehicle/meshes/propeller_ccw.dae</uri></mesh> -->) Tj T* (  </visual>) Tj T* (  <collision name='rotor_0_collision'>) Tj T* (    <geometry><box><size>0.24 0.017 0.001</size></box></geometry>) Tj T* (  </collision>) Tj T* (</link>) Tj T*  T* (<joint name='rotor_0_joint' type='revolute'>) Tj T* (  <parent>base_link</parent>) Tj T* (  <child>rotor_0</child>) Tj T* (  <axis>) Tj T* (    <xyz>0 0 1</xyz>) Tj T* (    <limit><lower>-1e+16</lower><upper>1e+16</upper></limit>) Tj T* (    <dynamics><spring_reference>0</spring_reference><spring_stiffness>0</spring_stiffness></dynamics>) Tj T* (  </axis>) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+47 0 obj
+<<
+/Contents 48 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 49 0 R
+/F2 14 0 R
+/F2-0 50 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 4142
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 767.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (</joint>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 761.1969 cm
+Q
+q
+1 0 0 1 62.69291 753.1969 cm
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4.5 Section C \227 Motor Model Plugins) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1969 cm
+q
+BT 1 0 0 1 0 20 Tm .963059 Tw 15 TL /F1 10 Tf 0 0 0 rg (Add one MulticopterMotorModel plugin per motor. The ) Tj /F2 10 Tf (motorNumber) Tj /F1 10 Tf ( must match the rotor link number) Tj T* 0 Tw (and the channel index used in the airframe script.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 451.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 219.5 Tm /F3 8.5 Tf 12 TL (<!-- Motor 0: Front-Right, CCW -->) Tj T* (<plugin filename='gz-sim-multicopter-motor-model-system') Tj T* (        name='gz::sim::systems::MulticopterMotorModel'>) Tj T* (  <jointName>rotor_0_joint</jointName>) Tj T* (  <linkName>rotor_0</linkName>) Tj T* (  <turningDirection>ccw</turningDirection>) Tj T* (  <timeConstantUp>0.0125</timeConstantUp>) Tj T* (  <timeConstantDown>0.025</timeConstantDown>) Tj T* (  <maxRotVelocity>1000.0</maxRotVelocity>) Tj T* (  <motorConstant>8.54858e-06</motorConstant>  <!-- Thrust coefficient -->) Tj T* (  <momentConstant>0.016</momentConstant>       <!-- Torque coefficient -->) Tj T* (  <commandSubTopic>command/motor_speed</commandSubTopic>) Tj T* (  <motorNumber>0</motorNumber>) Tj T* (  <rotorDragCoefficient>8.06428e-05</rotorDragCoefficient>) Tj T* (  <rollingMomentCoefficient>1e-06</rollingMomentCoefficient>) Tj T* (  <rotorVelocitySlowdownSim>10</rotorVelocitySlowdownSim>) Tj T* (  <motorType>velocity</motorType>) Tj T* (</plugin>) Tj T* (<!-- Repeat for motor 1 \(ccw\), motor 2 \(cw\), motor 3 \(cw\) -->) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 445.1969 cm
+Q
+q
+1 0 0 1 62.69291 437.1969 cm
+Q
+q
+1 0 0 1 70.45244 283.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 154 454.3707 -22 re f*
+1 1 1 rg
+n 0 132 454.3707 -22 re f*
+.933333 .956863 .984314 rg
+n 0 110 454.3707 -22 re f*
+1 1 1 rg
+n 0 88 454.3707 -22 re f*
+.933333 .956863 .984314 rg
+n 0 66 454.3707 -22 re f*
+1 1 1 rg
+n 0 44 454.3707 -22 re f*
+.933333 .956863 .984314 rg
+n 0 22 454.3707 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 140 Tm (Parameter) Tj T* ET
+BT 1 0 0 1 135.5591 140 Tm (Description) Tj T* ET
+BT 1 0 0 1 362.3307 140 Tm (Typical Value \(x500\)) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 118 Tm (motorConstant) Tj T* ET
+BT 1 0 0 1 135.5591 118 Tm (Thrust coefficient \(N/\(rad/s\)^2\)) Tj T* ET
+BT 1 0 0 1 362.3307 118 Tm (8.54858e-06) Tj T* ET
+BT 1 0 0 1 8 96 Tm (momentConstant) Tj T* ET
+BT 1 0 0 1 135.5591 96 Tm (Torque-to-thrust ratio) Tj T* ET
+BT 1 0 0 1 362.3307 96 Tm (0.016) Tj T* ET
+BT 1 0 0 1 8 74 Tm (maxRotVelocity) Tj T* ET
+BT 1 0 0 1 135.5591 74 Tm (Maximum rotor speed \(rad/s\)) Tj T* ET
+BT 1 0 0 1 362.3307 74 Tm (1000.0) Tj T* ET
+BT 1 0 0 1 8 52 Tm (timeConstantUp) Tj T* ET
+BT 1 0 0 1 135.5591 52 Tm (Motor spin-up time constant \(s\)) Tj T* ET
+BT 1 0 0 1 362.3307 52 Tm (0.0125) Tj T* ET
+BT 1 0 0 1 8 30 Tm (timeConstantDown) Tj T* ET
+BT 1 0 0 1 135.5591 30 Tm (Motor spin-down time constant \(s\)) Tj T* ET
+BT 1 0 0 1 362.3307 30 Tm (0.025) Tj T* ET
+BT 1 0 0 1 8 8 Tm (turningDirection) Tj T* ET
+BT 1 0 0 1 135.5591 8 Tm (ccw or cw \(viewed from above\)) Tj T* ET
+BT 1 0 0 1 362.3307 8 Tm (varies) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 154 m 454.3707 154 l S
+n 0 0 m 454.3707 0 l S
+n 0 0 m 0 154 l S
+n 454.3707 0 m 454.3707 154 l S
+n 0 132 m 454.3707 132 l S
+n 0 110 m 454.3707 110 l S
+n 0 88 m 454.3707 88 l S
+n 0 66 m 454.3707 66 l S
+n 0 44 m 454.3707 44 l S
+n 0 22 m 454.3707 22 l S
+n 127.5591 0 m 127.5591 154 l S
+n 354.3307 0 m 354.3307 154 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+49 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Contents 52 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 53 0 R
+/F2 14 0 R
+/F2-0 54 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 3971
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 68.45688 0 Td (Step 5 \227 Creating the PX4 Airframe Script) Tj T* -68.45688 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (5) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Write the PX4 Airframe Initialisation Script) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (5.1 What is an Airframe Script?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL .36311 Tw (Every PX4 vehicle has a shell script that sets default parameter values and specifies which simulator and) Tj T* 0 Tw (model to use. These scripts live in:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 583.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (ROMFS/px4fmu_common/init.d-posix/airframes/) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 577.1969 cm
+Q
+q
+1 0 0 1 62.69291 532.1969 cm
+q
+BT 1 0 0 1 0 35 Tm 3.209069 Tw 15 TL /F1 10 Tf 0 0 0 rg (File naming convention: ) Tj /F2 10 Tf (NNNN_gz_) Tj (<) Tj (model_name) Tj (>) Tj /F1 10 Tf ( where NNNN is a unique 4-digit number. The) Tj T* 0 Tw 1.535984 Tw (4000\2264099 range is used for gz models. Avoid conflicts with existing IDs \227 check the CMakeLists.txt) Tj T* 0 Tw (listing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 500.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (5.2 Airframe Script Template) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 399.5 Tm /F3 8.5 Tf 12 TL (#!/bin/sh) Tj T* (#) Tj T* (# @name Gazebo my_vehicle) Tj T* (#) Tj T* (# @type Quadrotor) Tj T* (#) Tj T*  T* (. ${R}etc/init.d/rc.mc_defaults) Tj T*  T* (PX4_SIMULATOR=${PX4_SIMULATOR:=gz}) Tj T* (PX4_GZ_WORLD=${PX4_GZ_WORLD:=default}) Tj T* (PX4_SIM_MODEL=${PX4_SIM_MODEL:=my_vehicle}   # must match model directory name) Tj T*  T* (param set-default SIM_GZ_EN 1) Tj T*  T* (# ) Tj /F4 8.5 Tf 12 TL (nn) Tj /F3 8.5 Tf 12 TL ( Control Allocation ) Tj /F4 8.5 Tf 12 TL (nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) Tj /F3 8.5 Tf 12 TL T* (param set-default CA_AIRFRAME 0   # 0 = multirotor) Tj T* (param set-default CA_ROTOR_COUNT 4) Tj T*  T* (# Motor positions \(metres from CoM\) and yaw torque sign) Tj T* (# KM > 0 = CW spin \(positive yaw torque\)) Tj T* (# KM < 0 = CCW spin \(negative yaw torque\)) Tj T*  T* (param set-default CA_ROTOR0_PX  0.13   # Front-Right  CCW) Tj T* (param set-default CA_ROTOR0_PY -0.22) Tj T* (param set-default CA_ROTOR0_KM -0.05) Tj T*  T* (param set-default CA_ROTOR1_PX -0.13   # Rear-Left    CCW) Tj T* (param set-default CA_ROTOR1_PY  0.22) Tj T* (param set-default CA_ROTOR1_KM -0.05) Tj T*  T* (param set-default CA_ROTOR2_PX  0.13   # Front-Left   CW) Tj T* (param set-default CA_ROTOR2_PY  0.22) Tj T* (param set-default CA_ROTOR2_KM  0.05) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 74.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (param set-default CA_ROTOR3_PX -0.13   # Rear-Right   CW) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+53 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+55 0 obj
+<<
+/Contents 56 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 57 0 R
+/F2 14 0 R
+/F2-0 58 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 3850
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 491.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 279.5 Tm /F3 8.5 Tf 12 TL (param set-default CA_ROTOR3_PY -0.22) Tj T* (param set-default CA_ROTOR3_KM  0.05) Tj T*  T* (# ) Tj /F4 8.5 Tf 12 TL (nn) Tj /F3 8.5 Tf 12 TL ( ESC Output Mapping ) Tj /F4 8.5 Tf 12 TL (nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) Tj /F3 8.5 Tf 12 TL T* (# FUNC 101\226104 = Motor 1\2264 \(1-indexed in PX4 param naming\)) Tj T* (param set-default SIM_GZ_EC_FUNC1 101) Tj T* (param set-default SIM_GZ_EC_FUNC2 102) Tj T* (param set-default SIM_GZ_EC_FUNC3 103) Tj T* (param set-default SIM_GZ_EC_FUNC4 104) Tj T*  T* (# PWM limits \(microseconds, used for motor speed scaling\)) Tj T* (param set-default SIM_GZ_EC_MIN1 150) Tj T* (param set-default SIM_GZ_EC_MIN2 150) Tj T* (param set-default SIM_GZ_EC_MIN3 150) Tj T* (param set-default SIM_GZ_EC_MIN4 150) Tj T*  T* (param set-default SIM_GZ_EC_MAX1 1000) Tj T* (param set-default SIM_GZ_EC_MAX2 1000) Tj T* (param set-default SIM_GZ_EC_MAX3 1000) Tj T* (param set-default SIM_GZ_EC_MAX4 1000) Tj T*  T* (# ) Tj /F4 8.5 Tf 12 TL (nn) Tj /F3 8.5 Tf 12 TL ( Flight Controller Tuning ) Tj /F4 8.5 Tf 12 TL (nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) Tj /F3 8.5 Tf 12 TL T* (param set-default MPC_THR_HOVER 0.60   # hover throttle \(0\2261\)) Tj T* (param set-default NAV_DLL_ACT 2        # data link loss action) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 485.1969 cm
+Q
+q
+1 0 0 1 62.69291 477.1969 cm
+Q
+q
+1 0 0 1 62.69291 445.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (5.3 CA_ROTOR_KM Sign Convention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 409.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL 2.656235 Tw (The KM \(moment coefficient\) sign tells PX4 the yaw torque direction of each motor. This must be) Tj T* 0 Tw (consistent between the airframe script and the SDF motor plugin \(turningDirection field\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 121.1514 337.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 66 352.9729 -22 re f*
+1 1 1 rg
+n 0 44 352.9729 -22 re f*
+.933333 .956863 .984314 rg
+n 0 22 352.9729 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 52 Tm (KM Sign) Tj T* ET
+BT 1 0 0 1 93.03937 52 Tm (turningDirection in SDF) Tj T* ET
+BT 1 0 0 1 248.9449 52 Tm (Yaw torque produced) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 30 Tm (Positive \(+\)) Tj T* ET
+BT 1 0 0 1 93.03937 30 Tm (cw \(clockwise\)) Tj T* ET
+BT 1 0 0 1 248.9449 30 Tm (Positive yaw \(nose right\)) Tj T* ET
+BT 1 0 0 1 8 8 Tm (Negative \(-\)) Tj T* ET
+BT 1 0 0 1 93.03937 8 Tm (ccw \(counter-clockwise\)) Tj T* ET
+BT 1 0 0 1 248.9449 8 Tm (Negative yaw \(nose left\)) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 66 m 352.9729 66 l S
+n 0 0 m 352.9729 0 l S
+n 0 0 m 0 66 l S
+n 352.9729 0 m 352.9729 66 l S
+n 0 44 m 352.9729 44 l S
+n 0 22 m 352.9729 22 l S
+n 85.03937 0 m 85.03937 66 l S
+n 240.9449 0 m 240.9449 66 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 329.1969 cm
+Q
+q
+1 0 0 1 62.69291 297.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (5.4 Hover Throttle \(MPC_THR_HOVER\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 246.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35 Tm /F1 10 Tf 15 TL 4.408651 Tw (This is the normalised throttle value at which the vehicle hovers. It depends on the vehicle's) Tj T* 0 Tw .971098 Tw (thrust-to-weight ratio. Start with 0.5 and adjust after the first flight test. If the vehicle climbs with stick at) Tj T* 0 Tw (centre, lower this value; if it descends, raise it.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+57 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+58 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+59 0 obj
+<<
+/Contents 60 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 61 0 R
+/F2 14 0 R
+/F2-0 62 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 4394
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 31.12088 0 Td (Step 6 \227 Registering the Airframe in CMakeLists.txt) Tj T* -31.12088 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (6) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Add the Airframe to the ROMFS CMakeLists) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (6.1 Why Registration is Needed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 586.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35 Tm /F1 10 Tf 15 TL .311163 Tw (CMake needs to know about the airframe script so it can be included in the firmware filesystem \(ROMFS\)) Tj T* 0 Tw 1.261988 Tw (that PX4 reads at boot. Without this, PX4 will not find the airframe and the make target will fail or use) Tj T* 0 Tw (wrong defaults.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (6.2 Edit CMakeLists.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (Open the file:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (ROMFS/px4fmu_common/init.d-posix/airframes/CMakeLists.txt) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 509.1969 cm
+Q
+q
+1 0 0 1 62.69291 479.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL .691654 Tw (Find the block of gz_ entries \(around line 73 in the current codebase\) and add your airframe filename to) Tj T* 0 Tw (the list:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 377.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 87.5 Tm /F3 8.5 Tf 12 TL (px4_add_romfs_files\() Tj T* (    ...) Tj T* (    4001_gz_x500) Tj T* (    4002_gz_x500_depth) Tj T* (    ...) Tj T* (    4099_gz_my_vehicle   # <-- ADD THIS LINE) Tj T* (    ...) Tj T* (\)) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 371.1969 cm
+Q
+q
+1 0 0 1 62.69291 363.1969 cm
+Q
+q
+1 0 0 1 62.69291 347.1969 cm
+q
+.219608 .556863 .235294 RG
+1 w
+.909804 .960784 .913725 rg
+n -8 -2 485.8898 20 re B*
+Q
+q
+.105882 .368627 .12549 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Tip: Tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.1969 cm
+q
+.219608 .556863 .235294 RG
+1 w
+.909804 .960784 .913725 rg
+n -8 -6 485.8898 50 re B*
+Q
+q
+.2 .2 .2 rg
+BT 1 0 0 1 0 32.5 Tm /F1 9.5 Tf 14 TL (The 4000\2264099 range is used for gz models in the reference PX4 repo. The comment in the CMakeLists.txt) Tj T* (reserves [22000, 22999] for custom models. For personal/team use, pick a number in the 22000\22622999 range) Tj T* (to avoid conflicts with upstream PX4 additions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.1969 cm
+Q
+q
+1 0 0 1 62.69291 289.1969 cm
+Q
+q
+1 0 0 1 62.69291 257.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (6.3 How the Make Target is Generated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.1969 cm
+q
+BT 1 0 0 1 0 35 Tm .36229 Tw 15 TL /F1 10 Tf 0 0 0 rg (The gz_bridge CMakeLists automatically scans for airframe files matching the pattern ) Tj /F2 10 Tf (*_gz_*) Tj /F1 10 Tf ( and creates) Tj T* 0 Tw .831318 Tw (a make target ) Tj /F2 10 Tf (gz_) Tj (<) Tj (model_name) Tj (>) Tj /F1 10 Tf ( for each one. Once you add the airframe to the ROMFS CMakeLists) Tj T* 0 Tw (and rebuild, the target ) Tj /F2 10 Tf (gz_my_vehicle) Tj /F1 10 Tf ( will be available:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 188.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 3.5 Tm /F3 8.5 Tf 12 TL (make px4_sitl gz_my_vehicle) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 182.1969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+61 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+62 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+63 0 obj
+<<
+/Contents 64 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 65 0 R
+/F2 14 0 R
+/F2-0 66 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 4564
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 52.03288 0 Td (Step 7 \227 Building and Running the Simulation) Tj T* -52.03288 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (7) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Build PX4 SITL and Launch the Simulation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (7.1 Prerequisites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.1969 cm
+q
+BT 1 0 0 1 20 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 Ubuntu 22.04 LTS \(recommended\) or 20.04.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.1969 cm
+q
+BT 1 0 0 1 20 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 PX4 development environment installed \(run ) Tj /F2 10 Tf (Tools/setup/ubuntu.sh) Tj /F1 10 Tf ( if not done\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.1969 cm
+q
+BT 1 0 0 1 20 4 Tm -0.13314 Tw 14 TL /F1 10 Tf 0 0 0 rg (\177 Gazebo Garden or Harmonic installed \(installed by the setup script or via the Gazebo apt repository\).) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.1969 cm
+q
+BT 1 0 0 1 20 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 PX4 submodules initialised: ) Tj /F2 10 Tf (git submodule update --init --recursive) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.1969 cm
+q
+BT 1 0 0 1 20 4 Tm 14 TL /F1 10 Tf 0 0 0 rg (\177 Models submodule checked out: ) Tj /F2 10 Tf (Tools/simulation/gz/) Tj /F1 10 Tf ( should contain the models/ directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 533.1969 cm
+Q
+q
+1 0 0 1 62.69291 501.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (7.2 Clean Build \(First Time or After Model Changes\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 87.5 Tm /F3 8.5 Tf 12 TL (cd ~/PX4-Autopilot) Tj T*  T* (# Full clean \(use when you change ROMFS files like the airframe script\)) Tj T* (make clean) Tj T* (make distclean   # more thorough; removes build directory) Tj T*  T* (# Build and launch) Tj T* (make px4_sitl gz_my_vehicle) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 393.1969 cm
+Q
+q
+1 0 0 1 62.69291 385.1969 cm
+Q
+q
+1 0 0 1 62.69291 353.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (7.3 Incremental Build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 287.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 51.5 Tm /F3 8.5 Tf 12 TL (# After changing only .sdf or model files \(no recompile needed\)) Tj T* (make px4_sitl gz_my_vehicle) Tj T*  T* (# After changing source code \(recompiles changed modules\)) Tj T* (make px4_sitl gz_my_vehicle) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 281.1969 cm
+Q
+q
+1 0 0 1 62.69291 273.1969 cm
+Q
+q
+1 0 0 1 62.69291 241.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (7.4 Specifying a Different World) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 175.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 51.5 Tm /F3 8.5 Tf 12 TL (# Use the windy world) Tj T* (PX4_GZ_WORLD=windy make px4_sitl gz_my_vehicle) Tj T*  T* (# Use a custom world) Tj T* (PX4_GZ_WORLD=my_world make px4_sitl gz_my_vehicle) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 169.1969 cm
+Q
+q
+1 0 0 1 62.69291 161.1969 cm
+Q
+q
+1 0 0 1 62.69291 129.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (7.5 Successful Launch Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 108.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F1 10 Tf 15 TL (A successful launch shows the following sequence in the terminal:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 66.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 27.5 Tm /F3 8.5 Tf 12 TL (INFO  [px4] Startup script returned successfully) Tj T* (INFO  [gz_bridge] model: my_vehicle) Tj T* (INFO  [gz_bridge] world: default) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+65 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+66 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+67 0 obj
+<<
+/Contents 68 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 69 0 R
+/F2 14 0 R
+/F2-0 70 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 982
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 27.5 Tm /F3 8.5 Tf 12 TL (INFO  [gz_bridge] Subscribed to /world/default/model/my_vehicle/...) Tj T* (INFO  [commander] Ready for takeoff!) Tj T* (pxh>) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 737.1969 cm
+Q
+q
+1 0 0 1 62.69291 729.1969 cm
+Q
+q
+1 0 0 1 62.69291 699.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL 2.13186 Tw (Gazebo will open in a separate window showing your vehicle on the ground. You can then connect) Tj T* 0 Tw (QGroundControl or use the pxh> console to command the vehicle.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+69 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+70 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+71 0 obj
+<<
+/Contents 72 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 73 0 R
+/F2 14 0 R
+/F2-0 74 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+72 0 obj
+<<
+/Length 5897
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 112.9209 0 Td (Step 8 \227 Verifying and Tuning) Tj T* -112.9209 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 677.1969 cm
+q
+.933333 .956863 .984314 rg
+n 0 44 469.8898 -44 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 8 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 12.23046 0 Td (8) Tj T* -12.23046 0 Td ET
+Q
+Q
+q
+1 0 0 1 66.69291 13 cm
+q
+.101961 .137255 .25098 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Verify Sensor Data and Tune Flight Parameters) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.101961 .431373 .741176 RG
+.5 w
+n 0 44 m 469.8898 44 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 44 l S
+n 469.8898 0 m 469.8898 44 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 669.1969 cm
+Q
+q
+1 0 0 1 62.69291 637.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (8.1 Check Sensor Status via pxh Console) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 123.5 Tm /F3 8.5 Tf 12 TL (# In the pxh> prompt:) Tj T* (listener sensor_accel       # verify IMU accel data arriving) Tj T* (listener sensor_gyro        # verify IMU gyro data arriving) Tj T* (listener sensor_baro        # verify barometer data) Tj T* (listener vehicle_gps_position  # verify GPS fix) Tj T*  T* (# Check estimator health) Tj T* (ekf2 status) Tj T*  T* (# Check control allocation) Tj T* (control_allocator status) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 493.1969 cm
+Q
+q
+1 0 0 1 62.69291 485.1969 cm
+Q
+q
+1 0 0 1 62.69291 453.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (8.2 First Takeoff Test \(Offboard / Manual\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 87.5 Tm /F3 8.5 Tf 12 TL (# In pxh> \227 arm and takeoff in stabilised mode) Tj T* (commander arm) Tj T* (commander takeoff) Tj T*  T* (# Watch for issues:) Tj T* (# - Vehicle drifts significantly: check motor positions in airframe script) Tj T* (# - Vehicle flips on takeoff: check turningDirection vs KM sign) Tj T* (# - Vehicle oscillates: tune PID gains) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 345.1969 cm
+Q
+q
+1 0 0 1 62.69291 337.1969 cm
+Q
+q
+1 0 0 1 62.69291 305.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (8.3 Common Issues and Fixes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 -111.0384 123.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 176 817.3523 -22 re f*
+1 1 1 rg
+n 0 154 817.3523 -22 re f*
+1 .972549 .882353 rg
+n 0 132 817.3523 -22 re f*
+1 1 1 rg
+n 0 110 817.3523 -22 re f*
+1 .972549 .882353 rg
+n 0 88 817.3523 -22 re f*
+1 1 1 rg
+n 0 66 817.3523 -22 re f*
+1 .972549 .882353 rg
+n 0 44 817.3523 -22 re f*
+1 1 1 rg
+n 0 22 817.3523 -22 re f*
+1 1 1 rg
+BT /F2 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 162.5 Tm (Symptom) Tj T* ET
+BT 1 0 0 1 119.3858 162.5 Tm (Likely Cause) Tj T* ET
+BT 1 0 0 1 275.2913 162.5 Tm (Fix) Tj T* ET
+0 0 0 rg
+BT /F1 8.5 Tf 12 TL ET
+BT 1 0 0 1 6 140.5 Tm (ERROR [vehicle_imu] timestamp error) Tj T* ET
+BT 1 0 0 1 119.3858 140.5 Tm (Sensor system plugins loaded twice \(model + server.config\)) Tj T* ET
+BT 1 0 0 1 275.2913 140.5 Tm (Remove gz-sim-imu-system, gz-sim-air-pressure-system, gz-sim-magnetometer-system, and gz-sim-navsat-system plugin tags from model.sdf) Tj T* ET
+BT 1 0 0 1 6 118.5 Tm (Vehicle immediately flips) Tj T* ET
+BT 1 0 0 1 119.3858 118.5 Tm (Motor spin direction mismatch \(SDF vs airframe KM sign\)) Tj T* ET
+BT 1 0 0 1 275.2913 118.5 Tm (Verify turningDirection in SDF matches KM sign in airframe script) Tj T* ET
+BT 1 0 0 1 6 96.5 Tm (Vehicle drifts in one axis) Tj T* ET
+BT 1 0 0 1 119.3858 96.5 Tm (Motor X/Y positions incorrect in CA_ROTOR params) Tj T* ET
+BT 1 0 0 1 275.2913 96.5 Tm (Measure actual motor arm distances from CoM and update airframe script) Tj T* ET
+BT 1 0 0 1 6 74.5 Tm ('gz_my_vehicle' make target not found) Tj T* ET
+BT 1 0 0 1 119.3858 74.5 Tm (Airframe not registered in CMakeLists.txt) Tj T* ET
+BT 1 0 0 1 275.2913 74.5 Tm (Add the airframe filename to ROMFS/.../airframes/CMakeLists.txt and rebuild) Tj T* ET
+BT 1 0 0 1 6 52.5 Tm (Model not found / Gazebo error) Tj T* ET
+BT 1 0 0 1 119.3858 52.5 Tm (model.config <name> does not match directory name or PX4_SIM_MODEL) Tj T* ET
+BT 1 0 0 1 275.2913 52.5 Tm (Ensure all three match exactly: directory name, model.config <name>, PX4_SIM_MODEL in airframe script) Tj T* ET
+BT 1 0 0 1 6 30.5 Tm (Mesh not visible in Gazebo) Tj T* ET
+BT 1 0 0 1 119.3858 30.5 Tm (Wrong mesh URI or mesh not in correct directory) Tj T* ET
+BT 1 0 0 1 275.2913 30.5 Tm (Use model://my_vehicle/meshes/file.dae URI; verify the meshes/ directory exists) Tj T* ET
+BT 1 0 0 1 6 8.5 Tm (Sim runs but vehicle falls through ground) Tj T* ET
+BT 1 0 0 1 119.3858 8.5 Tm (Spawn height too low or missing collision geometry) Tj T* ET
+BT 1 0 0 1 275.2913 8.5 Tm (Check <pose> in model.sdf; ensure base_link has a collision element) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 176 m 817.3523 176 l S
+n 0 0 m 817.3523 0 l S
+n 0 0 m 0 176 l S
+n 817.3523 0 m 817.3523 176 l S
+n 0 154 m 817.3523 154 l S
+n 0 132 m 817.3523 132 l S
+n 0 110 m 817.3523 110 l S
+n 0 88 m 817.3523 88 l S
+n 0 66 m 817.3523 66 l S
+n 0 44 m 817.3523 44 l S
+n 0 22 m 817.3523 22 l S
+n 113.3858 0 m 113.3858 176 l S
+n 269.2913 0 m 269.2913 176 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 113.1969 cm
+Q
+q
+1 0 0 1 62.69291 81.19685 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (8.4 PID Tuning in Simulation) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+73 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+74 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+75 0 obj
+<<
+/Contents 76 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 77 0 R
+/F2 14 0 R
+/F2-0 78 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 1059
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 749.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 20 Tm /F1 10 Tf 15 TL 1.181984 Tw (After achieving stable hover, tune the PID gains using QGroundControl \(Vehicle Setup > Tuning\) or by) Tj T* 0 Tw (setting parameters directly:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 647.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 87.5 Tm /F3 8.5 Tf 12 TL (# Rate controller \(inner loop\)) Tj T* (param set MC_ROLLRATE_P  0.15) Tj T* (param set MC_PITCHRATE_P 0.15) Tj T* (param set MC_YAWRATE_P   0.2) Tj T*  T* (# Attitude controller \(outer loop\)) Tj T* (param set MC_ROLL_P  6.5) Tj T* (param set MC_PITCH_P 6.5) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 641.1969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+77 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+78 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+79 0 obj
+<<
+/Contents 80 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 81 0 R
+/F2 14 0 R
+/F2-0 82 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+80 0 obj
+<<
+/Length 7132
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 733.1969 cm
+q
+.101961 .137255 .25098 rg
+n 0 46 469.8898 -46 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL 66.67288 0 Td (Appendix \227 Reference Files and Checklist) Tj T* -66.67288 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 721.1969 cm
+Q
+q
+1 0 0 1 62.69291 689.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (A.1 Complete File Checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109.3209 507.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 176 376.6337 -22 re f*
+1 1 1 rg
+n 0 154 376.6337 -22 re f*
+.933333 .956863 .984314 rg
+n 0 132 376.6337 -22 re f*
+1 1 1 rg
+n 0 110 376.6337 -22 re f*
+.933333 .956863 .984314 rg
+n 0 88 376.6337 -22 re f*
+1 1 1 rg
+n 0 66 376.6337 -22 re f*
+.933333 .956863 .984314 rg
+n 0 44 376.6337 -22 re f*
+1 1 1 rg
+n 0 22 376.6337 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 162 Tm  T* ET
+BT 1 0 0 1 36.34646 162 Tm (File / Directory) Tj T* ET
+BT 1 0 0 1 178.0787 162 Tm (Location) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 140 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 140 Tm (meshes/frame_visual.dae) Tj T* ET
+BT 1 0 0 1 178.0787 140 Tm (Tools/simulation/gz/models/my_vehicle/meshes/) Tj T* ET
+BT 1 0 0 1 8 118 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 118 Tm (meshes/propeller_cw.dae \(optional\)) Tj T* ET
+BT 1 0 0 1 178.0787 118 Tm (Tools/simulation/gz/models/my_vehicle/meshes/) Tj T* ET
+BT 1 0 0 1 8 96 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 96 Tm (meshes/propeller_ccw.dae \(optional\)) Tj T* ET
+BT 1 0 0 1 178.0787 96 Tm (Tools/simulation/gz/models/my_vehicle/meshes/) Tj T* ET
+BT 1 0 0 1 8 74 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 74 Tm (model.config) Tj T* ET
+BT 1 0 0 1 178.0787 74 Tm (Tools/simulation/gz/models/my_vehicle/) Tj T* ET
+BT 1 0 0 1 8 52 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 52 Tm (model.sdf) Tj T* ET
+BT 1 0 0 1 178.0787 52 Tm (Tools/simulation/gz/models/my_vehicle/) Tj T* ET
+BT 1 0 0 1 8 30 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 30 Tm (XXXX_gz_my_vehicle \(airframe script\)) Tj T* ET
+BT 1 0 0 1 178.0787 30 Tm (ROMFS/px4fmu_common/init.d-posix/airframes/) Tj T* ET
+BT 1 0 0 1 8 8 Tm ([ ]) Tj T* ET
+BT 1 0 0 1 36.34646 8 Tm (CMakeLists.txt \(entry added\)) Tj T* ET
+BT 1 0 0 1 178.0787 8 Tm (ROMFS/px4fmu_common/init.d-posix/airframes/) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 176 m 376.6337 176 l S
+n 0 0 m 376.6337 0 l S
+n 0 0 m 0 176 l S
+n 376.6337 0 m 376.6337 176 l S
+n 0 154 m 376.6337 154 l S
+n 0 132 m 376.6337 132 l S
+n 0 110 m 376.6337 110 l S
+n 0 88 m 376.6337 88 l S
+n 0 66 m 376.6337 66 l S
+n 0 44 m 376.6337 44 l S
+n 0 22 m 376.6337 22 l S
+n 28.34646 0 m 28.34646 176 l S
+n 170.0787 0 m 170.0787 176 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 495.1969 cm
+Q
+q
+1 0 0 1 62.69291 463.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (A.2 Key PX4 Parameter Reference for New Vehicles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 88.55056 193.1969 cm
+q
+.101961 .431373 .741176 rg
+n 0 264 418.1745 -22 re f*
+1 1 1 rg
+n 0 242 418.1745 -22 re f*
+.933333 .956863 .984314 rg
+n 0 220 418.1745 -22 re f*
+1 1 1 rg
+n 0 198 418.1745 -22 re f*
+.933333 .956863 .984314 rg
+n 0 176 418.1745 -22 re f*
+1 1 1 rg
+n 0 154 418.1745 -22 re f*
+.933333 .956863 .984314 rg
+n 0 132 418.1745 -22 re f*
+1 1 1 rg
+n 0 110 418.1745 -22 re f*
+.933333 .956863 .984314 rg
+n 0 88 418.1745 -22 re f*
+1 1 1 rg
+n 0 66 418.1745 -22 re f*
+.933333 .956863 .984314 rg
+n 0 44 418.1745 -22 re f*
+1 1 1 rg
+n 0 22 418.1745 -22 re f*
+1 1 1 rg
+BT /F2 9 Tf 12 TL ET
+BT 1 0 0 1 8 250 Tm (Parameter) Tj T* ET
+BT 1 0 0 1 121.3858 250 Tm (Description) Tj T* ET
+BT 1 0 0 1 348.1575 250 Tm (Typical Default) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 12 TL ET
+BT 1 0 0 1 8 228 Tm (CA_AIRFRAME) Tj T* ET
+BT 1 0 0 1 121.3858 228 Tm (Airframe type \(0=MC, 1=FW, 2=VTOL...\)) Tj T* ET
+BT 1 0 0 1 348.1575 228 Tm (0) Tj T* ET
+BT 1 0 0 1 8 206 Tm (CA_ROTOR_COUNT) Tj T* ET
+BT 1 0 0 1 121.3858 206 Tm (Number of rotors) Tj T* ET
+BT 1 0 0 1 348.1575 206 Tm (4) Tj T* ET
+BT 1 0 0 1 8 184 Tm (CA_ROTORx_PX/PY) Tj T* ET
+BT 1 0 0 1 121.3858 184 Tm (Rotor X/Y position from CoM \(m\)) Tj T* ET
+BT 1 0 0 1 348.1575 184 Tm (\2610.13/0.22) Tj T* ET
+BT 1 0 0 1 8 162 Tm (CA_ROTORx_KM) Tj T* ET
+BT 1 0 0 1 121.3858 162 Tm (Yaw torque coefficient sign) Tj T* ET
+BT 1 0 0 1 348.1575 162 Tm (\2610.05) Tj T* ET
+BT 1 0 0 1 8 140 Tm (SIM_GZ_EN) Tj T* ET
+BT 1 0 0 1 121.3858 140 Tm (Enable Gazebo bridge) Tj T* ET
+BT 1 0 0 1 348.1575 140 Tm (1) Tj T* ET
+BT 1 0 0 1 8 118 Tm (SIM_GZ_EC_FUNCn) Tj T* ET
+BT 1 0 0 1 121.3858 118 Tm (ESC output function mapping) Tj T* ET
+BT 1 0 0 1 348.1575 118 Tm (101\226104) Tj T* ET
+BT 1 0 0 1 8 96 Tm (SIM_GZ_EC_MINn/MAXn) Tj T* ET
+BT 1 0 0 1 121.3858 96 Tm (ESC PWM range) Tj T* ET
+BT 1 0 0 1 348.1575 96 Tm (150/1000) Tj T* ET
+BT 1 0 0 1 8 74 Tm (MPC_THR_HOVER) Tj T* ET
+BT 1 0 0 1 121.3858 74 Tm (Hover throttle \(normalised 0\2261\)) Tj T* ET
+BT 1 0 0 1 348.1575 74 Tm (0.50\2260.65) Tj T* ET
+BT 1 0 0 1 8 52 Tm (MPC_THR_MIN) Tj T* ET
+BT 1 0 0 1 121.3858 52 Tm (Minimum collective thrust) Tj T* ET
+BT 1 0 0 1 348.1575 52 Tm (0.12) Tj T* ET
+BT 1 0 0 1 8 30 Tm (MC_ROLLRATE_P) Tj T* ET
+BT 1 0 0 1 121.3858 30 Tm (Roll rate proportional gain) Tj T* ET
+BT 1 0 0 1 348.1575 30 Tm (0.15) Tj T* ET
+BT 1 0 0 1 8 8 Tm (MC_PITCHRATE_P) Tj T* ET
+BT 1 0 0 1 121.3858 8 Tm (Pitch rate proportional gain) Tj T* ET
+BT 1 0 0 1 348.1575 8 Tm (0.15) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 264 m 418.1745 264 l S
+n 0 0 m 418.1745 0 l S
+n 0 0 m 0 264 l S
+n 418.1745 0 m 418.1745 264 l S
+n 0 242 m 418.1745 242 l S
+n 0 220 m 418.1745 220 l S
+n 0 198 m 418.1745 198 l S
+n 0 176 m 418.1745 176 l S
+n 0 154 m 418.1745 154 l S
+n 0 132 m 418.1745 132 l S
+n 0 110 m 418.1745 110 l S
+n 0 88 m 418.1745 88 l S
+n 0 66 m 418.1745 66 l S
+n 0 44 m 418.1745 44 l S
+n 0 22 m 418.1745 22 l S
+n 113.3858 0 m 113.3858 264 l S
+n 340.1575 0 m 340.1575 264 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 181.1969 cm
+Q
+q
+1 0 0 1 62.69291 149.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (A.3 Directory Structure Summary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 71.19685 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 63.5 Tm /F3 8.5 Tf 12 TL (~/PX4-Autopilot/) Tj T* /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( ROMFS/px4fmu_common/init.d-posix/airframes/) Tj T* /F4 8.5 Tf 12 TL (n) Tj /F3 8.5 Tf 12 TL (   ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( CMakeLists.txt              ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( add your airframe filename here) Tj T* /F4 8.5 Tf 12 TL (n) Tj /F3 8.5 Tf 12 TL (   ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( XXXX_gz_my_vehicle          ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( airframe script) Tj T* /F4 8.5 Tf 12 TL (n) Tj /F3 8.5 Tf 12 TL T* /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( Tools/simulation/gz/) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+81 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+82 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+83 0 obj
+<<
+/Contents 84 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 85 0 R
+/F2 14 0 R
+/F2-0 86 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+84 0 obj
+<<
+/Length 2874
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 647.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 123.5 Tm /F3 8.5 Tf 12 TL (    ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( server.config               ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( global Gazebo plugins \(DO NOT modify\)) Tj T* (    ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( worlds/) Tj T* (    ) Tj /F4 8.5 Tf 12 TL (n) Tj /F3 8.5 Tf 12 TL (   ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( default.sdf             ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( world SDF) Tj T* (    ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( models/) Tj T* (        ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( my_vehicle/             ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( model directory \(name = PX4_SIM_MODEL\)) Tj T* (            ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( model.config        ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( metadata) Tj T* (            ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( model.sdf           ) Tj /F5 8.5 Tf 12 TL (\254) Tj /F3 8.5 Tf 12 TL ( physics, sensors, motor plugins) Tj T* (            ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( meshes/) Tj T* (                ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( frame_visual.dae) Tj T* (                ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( propeller_cw.dae) Tj T* (                ) Tj /F4 8.5 Tf 12 TL (nnn) Tj /F3 8.5 Tf 12 TL ( propeller_ccw.dae) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 641.1969 cm
+Q
+q
+1 0 0 1 62.69291 629.1969 cm
+Q
+q
+1 0 0 1 62.69291 597.1969 cm
+q
+.101961 .431373 .741176 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (A.4 Useful Commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.1969 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 10 183.5 Tm /F3 8.5 Tf 12 TL (# List all available gz_ make targets) Tj T* (make list_config_targets | grep gz_) Tj T*  T* (# Run with GUI \(default\), headless mode:) Tj T* (HEADLESS=1 make px4_sitl gz_my_vehicle) Tj T*  T* (# Run with a specific instance number \(for multi-vehicle\):) Tj T* (PX4_SYS_AUTOSTART=4099 PX4_GZ_MODEL=my_vehicle ./build/px4_sitl_default/bin/px4) Tj T*  T* (# Check Gazebo topics to verify sensor publishing:) Tj T* (gz topic -l | grep my_vehicle) Tj T* (gz topic -e -t /world/default/model/my_vehicle/link/base_link/sensor/imu_sensor/imu) Tj T*  T* (# Inspect the spawned model in Gazebo:) Tj T* (gz model --list) Tj T* (gz model -m my_vehicle --info) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 393.1969 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+85 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+86 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+87 0 obj
+<<
+/Contents 88 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.18
+>>
+>>
+/Font <<
+/F1 12 0 R
+/F1-0 89 0 R
+/F2 14 0 R
+/F2-0 90 0 R
+/F3 16 0 R
+/F4 17 0 R
+/F5 18 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+88 0 obj
+<<
+/Length 790
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 767.1969 cm
+q
+.501961 .501961 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 201.8749 0 Td (Document End) Tj T* -201.8749 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 763.1969 cm
+Q
+q
+1 0 0 1 62.69291 751.1969 cm
+q
+.501961 .501961 .501961 rg
+BT 1 0 0 1 0 4 Tm /F1 8 Tf 12 TL 126.9649 0 Td (PX4 Autopilot \227 New Vehicle Integration Guide | docs.px4.io) Tj T* -126.9649 0 Td ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 297.6378 420.9449 cm
+BT
+/F2-0 72 Tf
+86.4 TL
+ET
+0.55 0.55 0.55 rg
+/gRLs0 gs
+BT
+1 0 0 1 -290.088 -36 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 -296 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+BT
+1 0 0 1 -290.088 224 Tm
+(Subhash Gurikar) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+89 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+90 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 91
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000247 00000 n 
+0000000296 00000 n 
+0000000590 00000 n 
+0000002244 00000 n 
+0000002351 00000 n 
+0000002458 00000 n 
+0000002570 00000 n 
+0000002682 00000 n 
+0000003015 00000 n 
+0000007546 00000 n 
+0000007654 00000 n 
+0000007762 00000 n 
+0000007875 00000 n 
+0000007988 00000 n 
+0000008094 00000 n 
+0000008178 00000 n 
+0000008256 00000 n 
+0000008589 00000 n 
+0000014808 00000 n 
+0000014916 00000 n 
+0000015029 00000 n 
+0000015362 00000 n 
+0000019641 00000 n 
+0000019749 00000 n 
+0000019862 00000 n 
+0000020195 00000 n 
+0000023858 00000 n 
+0000023966 00000 n 
+0000024079 00000 n 
+0000024412 00000 n 
+0000027728 00000 n 
+0000027836 00000 n 
+0000027949 00000 n 
+0000028282 00000 n 
+0000032158 00000 n 
+0000032266 00000 n 
+0000032379 00000 n 
+0000032712 00000 n 
+0000036162 00000 n 
+0000036270 00000 n 
+0000036383 00000 n 
+0000036716 00000 n 
+0000042082 00000 n 
+0000042190 00000 n 
+0000042303 00000 n 
+0000042636 00000 n 
+0000046831 00000 n 
+0000046939 00000 n 
+0000047052 00000 n 
+0000047385 00000 n 
+0000051409 00000 n 
+0000051517 00000 n 
+0000051630 00000 n 
+0000051963 00000 n 
+0000055866 00000 n 
+0000055974 00000 n 
+0000056087 00000 n 
+0000056420 00000 n 
+0000060867 00000 n 
+0000060975 00000 n 
+0000061088 00000 n 
+0000061421 00000 n 
+0000066038 00000 n 
+0000066146 00000 n 
+0000066259 00000 n 
+0000066592 00000 n 
+0000067626 00000 n 
+0000067734 00000 n 
+0000067847 00000 n 
+0000068180 00000 n 
+0000074130 00000 n 
+0000074238 00000 n 
+0000074351 00000 n 
+0000074684 00000 n 
+0000075796 00000 n 
+0000075904 00000 n 
+0000076017 00000 n 
+0000076350 00000 n 
+0000083535 00000 n 
+0000083643 00000 n 
+0000083756 00000 n 
+0000084089 00000 n 
+0000087016 00000 n 
+0000087124 00000 n 
+0000087237 00000 n 
+0000087570 00000 n 
+0000088412 00000 n 
+0000088520 00000 n 
+trailer
+<<
+/Size 91
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+88633
+%%EOF
